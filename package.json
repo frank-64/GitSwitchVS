@@ -2,7 +2,7 @@
   "name": "git-switch",
   "displayName": "GitSwitch",
   "description": "An extensions for switching global git credentials. This extension was made to avoid commits being made under the wrong account e.g. work instead of personal.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "FrankieClipsham",
   "icon": "gitswitch.jpg",
   "engines": {
