@@ -26,10 +26,6 @@
       {
         "command": "extension.removeGitAccount",
         "title": "Remove Git Account"
-      },
-      {
-        "command": "extension.showGitAccountStatus",
-        "title": "Show Active Git Account"
       }
     ]
   },
