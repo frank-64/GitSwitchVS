@@ -37,6 +37,10 @@
     "lint": "eslint src --ext ts",
     "test": "vscode-test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frank-64/GitSwitchVS"
+  },
   "devDependencies": {
     "@types/mocha": "^10.0.7",
     "@types/node": "20.x",
