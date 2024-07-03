@@ -1,7 +1,7 @@
 {
   "name": "git-switch",
   "displayName": "GitSwitch",
-  "description": "Switch Git credentials",
+  "description": "An extensions for switching global git credentials. This extension was made to avoid commits being made under the wrong account e.g. work instead of personal.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
@@ -10,10 +10,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onStartupFinished:extension.switchGitAccount",
-    "onCommand:extension.addOrUpdateGitAccount",
-    "onCommand:extension.switchGitAccount",
-    "onCommand:extension.removeGitAccount"
+    "*"
   ],
   "main": "./out/extension.js",
   "contributes": {
