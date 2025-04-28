@@ -13,3 +13,6 @@ Visual Studio Code extensions for switching global git credentials. This extensi
 ### 1.0.0
 
 Initial release of GitSwitch
+
+
+https://marketplace.visualstudio.com/items/?itemName=FrankieClipsham.git-switch
